@@ -1,0 +1,9 @@
+# .gitignore
+# Node modules
+/node_modules
+
+# Environment variables
+/.env
+
+# Other files you may want to ignore
+npm-debug.log
